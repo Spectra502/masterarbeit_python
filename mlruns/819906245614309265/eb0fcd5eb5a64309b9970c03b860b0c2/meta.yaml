@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/masterarbeit_python/mlruns/819906245614309265/eb0fcd5eb5a64309b9970c03b860b0c2/artifacts
+end_time: 1758875314214
+entry_point_name: ''
+experiment_id: '819906245614309265'
+lifecycle_stage: active
+run_id: eb0fcd5eb5a64309b9970c03b860b0c2
+run_name: Light Gradient Boosting Machine
+run_uuid: eb0fcd5eb5a64309b9970c03b860b0c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758875304374
+status: 3
+tags: []
+user_id: ge35yay
