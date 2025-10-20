@@ -212,3 +212,4 @@ mlruns/
 lightning_logs/
 .pt_tmp/
 *.ckpt
+Computer_Vision_Runs/

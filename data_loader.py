@@ -49,7 +49,7 @@ def load_feature_data(
         return pd.DataFrame()
         
     df = pd.concat(df_list, ignore_index=True)
-    print(f"Successfully loaded {len(files_to_load)} files into a DataFrame with shape {df.shape}")
+    #print(f"Successfully loaded {len(files_to_load)} files into a DataFrame with shape {df.shape}")
 
     # --- 3. Apply binary classification mapping ---
     if binary_classification:
@@ -93,7 +93,7 @@ def load_feature_data(
         except KeyError:
             pass # Columns were not present, which is fine.
 
-    print(f"Final DataFrame shape: {df.shape}")
+    #print(f"Final DataFrame shape: {df.shape}")
     return df
 
 
